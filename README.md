@@ -20,7 +20,7 @@ since 2022, but also includes professional experience before that.
 
 ## 🏡Personal Projects
 My hobby/home projects that you might find in this profile:
-- A python lambda that runs via EventBridge to query weather data and my previous "todo list" items to
+- [`task checker`](https://github.com/wildfan46/task-checker)A python lambda that runs via EventBridge to query weather data and my previous "todo list" items to
 conditionally add new items to my list, in order to help my plan my day before I even wake up.
 - My personal portfolio website hosted on Fly.io and a bff powered by a Python Lambda in AWS.
 - A fun discord bot I made for some friends to track activities in a shared discord server. This one
