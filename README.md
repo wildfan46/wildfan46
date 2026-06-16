@@ -9,7 +9,7 @@ since 2022, but also includes professional experience before that.
 ---
 
 ## 🚀 Professional Journey
-* **Capital One** (2022 – Present): Senior Engineer working in AWS using Python, and Angular, with a GoLang along the way.
+* **Capital One** (2022 – Present): Senior Engineer working in AWS using Python and Angular, along with a little GoLang along the way.
 * **SPS Commerce** (2019 – 2022): Focused on Getting to the Cloud using Java (Spring Boot) as part of a large migration of the data center.
 * **Menards** (2018 – 2019): Started my career in the home improvement space building a landscaping project estimator comprised of various java microservices.
 
